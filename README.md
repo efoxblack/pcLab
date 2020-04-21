@@ -1,3 +1,3 @@
 UML Diagram
 
-![](images/pc-lab-uml.ping)
+![](images/pc-lab-uml.png)
